@@ -1,0 +1,6 @@
+*.iml
+*target*
+*.7z
+*.class
+*.idea*
+*lib*
